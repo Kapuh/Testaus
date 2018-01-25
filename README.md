@@ -1,2 +1,5 @@
 # Testaus
-GitHub Testaus
+
+GitHub testaus itseopiskelun vuoksi.
+
+Jahas
